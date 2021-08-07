@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9104ff94-8d7a-4c1d-90ad-94ae9b54d781" name="Default Changelist" comment="init reimport">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/debut_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1wNfdaCd1HORuB78yY0WbRMlidv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="debut:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/debut_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="debut:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9104ff94-8d7a-4c1d-90ad-94ae9b54d781" name="Default Changelist" comment="" />
+      <created>1628304054588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628304054588</updated>
+      <workItem from="1628304061702" duration="3084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init reimport" />
+    <option name="LAST_COMMIT_MESSAGE" value="init reimport" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="CommitChangelistDialog2" timestamp="1628312696807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1440.5.1440.860@0.0.1366.728" timestamp="1628312696807" />
+    <state x="413" y="43" key="FileChooserDialogImpl" timestamp="1628312560528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="43" key="FileChooserDialogImpl/0.0.1366.728/-1440.5.1440.860@0.0.1366.728" timestamp="1628312560528" />
+    <state x="53" y="0" key="SettingsEditor" timestamp="1628312465497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="53" y="0" key="SettingsEditor/0.0.1366.728/-1440.5.1440.860@0.0.1366.728" timestamp="1628312465497" />
+  </component>
+</project>
